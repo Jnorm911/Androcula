@@ -1,0 +1,21 @@
+{
+  "name": "androcula",
+  "displayName": "androcula",
+  "description": "Andromeda Meets Dracula",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "androcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/androcula-color-theme.json"
+      }
+    ]
+  }
+}
