@@ -1,8 +1,8 @@
 {
 	"name": "androcula",
 	"displayName": "Androcula",
-	"description": "Andromeda Meets Dracula, A theme by T3nt4c135",
-	"version": "0.2.0",
+	"description": "Andromeda Meets Dracula, A remix by T3nt4c135",
+	"version": "0.3.0",
 	"author": "T3nt4c135",
 	"publisher": "T3nt4c135",
 	"engines": {
@@ -34,6 +34,7 @@
 		"clean",
 		"neon"
 	],
+	"icon": "img/icon.png",
 	"galleryBanner": {
 		"color": "#282a36",
 		"theme": "dark"
