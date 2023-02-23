@@ -11,7 +11,7 @@ Includes a neon theme for those who live on the wild side, glass theme coming so
 **Enjoy!**
 
 Based themes:
-https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula<br>
 https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda
 
 Icons used in preview:
