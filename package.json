@@ -14,7 +14,7 @@
       {
         "label": "androcula",
         "uiTheme": "vs-dark",
-        "path": "./themes/androcula-color-theme.json"
+        "path": "./themes/androcula.json"
       }
     ]
   }
