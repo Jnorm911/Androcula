@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v0.2.0]
 
 - Added a neon variant
+
+## [v0.3.0]
+
+- Added documentation and pictures
