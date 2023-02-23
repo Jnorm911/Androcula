@@ -1,4 +1,4 @@
-# Welcome to your VS Code Extension
+# Welcome to Androcula theme
 
 ## What's in the folder
 
