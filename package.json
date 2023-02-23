@@ -1,33 +1,52 @@
 {
-  "name": "androcula",
-  "displayName": "Androcula",
-  "description": "Andromeda Meets Dracula, A theme by T3nt4c135",
-  "version": "0.1.0",
-  "author": "T3nt4c135",
-  "publisher": "T3nt4c135",
-  "engines": {
-    "vscode": "^1.71.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "androcula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/androcula-color-theme.json"
-      }
-    ]
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": ["theme", "dracula", "andromeda", "t3nt4c135", "dark", "clean"],
-  "galleryBanner": {
-    "color": "#282a36",
-    "theme": "dark"
-  },
-  "license": "to chill",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jnorm911/Androcula"
-  }
+	"name": "androcula",
+	"displayName": "Androcula",
+	"description": "Andromeda Meets Dracula, A theme by T3nt4c135",
+	"version": "0.1.0",
+	"author": "T3nt4c135",
+	"publisher": "T3nt4c135",
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Androcula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/androcula-color-theme.json"
+			},
+			{
+				"label": "Androcula-Neon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/androcula-neon-color-theme.json"
+			}
+		]
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dracula",
+		"andromeda",
+		"t3nt4c135",
+		"dark",
+		"clean",
+		"neon"
+	],
+	"galleryBanner": {
+		"color": "#282a36",
+		"theme": "dark"
+	},
+	"license": "to chill",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jnorm911/Androcula"
+	},
+	"__metadata": {
+		"id": "bf4e5868-175f-480f-8122-41239a76f7e9",
+		"publisherDisplayName": "T3nt4c135",
+		"publisherId": "5fdb12f9-8188-4d72-beda-dead818f8f81",
+		"isPreReleaseVersion": false
+	}
 }
