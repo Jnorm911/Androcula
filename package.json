@@ -1,14 +1,19 @@
 {
   "name": "androcula",
-  "displayName": "androcula",
-  "description": "Andromeda Meets Dracula",
-  "version": "0.0.1",
+  "displayName": "Androcula",
+  "description": "Andromeda Meets Dracula, A theme by T3nt4c135",
+  "publisher": "T3nt4c135",
+  "author": {
+    "name": "T3nt4c135"
+  },
+  "version": "1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": ["theme", "dracula", "andromeda", "t3nt4c135", "dark", "clean"],
   "contributes": {
     "themes": [
       {
@@ -17,5 +22,14 @@
         "path": "./themes/androcula.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#282a36",
+    "theme": "dark"
+  },
+  "license": "to chill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jnorm911/Androcula"
   }
 }
