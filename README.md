@@ -1,18 +1,20 @@
 # Androcula A VSCode Theme
 
-Andromeda Meets Dracula
+## Andromeda Meets Dracula
+<br>
 
-![Screenshot](https://github.com/Jnorm911/Androcula/blob/main/img/preview.png)
+![Screenshot](https://raw.githubusercontent.com/Jnorm911/Androcula/main/img/preview.png "preview")
+## Note
 
-# Note
+Includes a neon theme for those who live on the wild side 😎<br>
+glass theme coming soon.
 
-Includes a neon theme for those who live on the wild side, glass theme coming soon.
-
-**Enjoy!**
+**Sources:**
 
 Based themes:<br>
 https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula<br>
-https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda
-
-Icons used in preview:
+https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda<br>
+Icons used in preview:<br>
 https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc
+
+**Enjoy!**
