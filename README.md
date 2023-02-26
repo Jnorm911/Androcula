@@ -2,8 +2,9 @@
 
 ## Andromeda Meets Dracula
 <br>
+<img src="https://raw.githubusercontent.com/Jnorm911/Androcula/main/img/previewV2.png" alt="preview" width="600" height="600">
+<br>
 
-![Screenshot](https://raw.githubusercontent.com/Jnorm911/Androcula/main/img/previewV2.png "preview")
 ## Note
 
 Includes a neon theme for those who live on the wild side 😎<br>
