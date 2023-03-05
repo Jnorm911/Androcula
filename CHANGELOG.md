@@ -28,4 +28,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Updated the readme with new preview and font used
 
+## [v0.4.0]
 
+- Updated terminal colors for androcula and androcula neon
+- Updated python colors for androcula only
