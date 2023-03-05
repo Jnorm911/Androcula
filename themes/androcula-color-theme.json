@@ -819,17 +819,6 @@
 		},
 		{
 			"scope": [
-				"string.quoted.docstring.multi",
-				"string.quoted.docstring.multi.python punctuation.definition.string.begin",
-				"string.quoted.docstring.multi.python punctuation.definition.string.end",
-				"string.quoted.docstring.multi.python constant.character.escape"
-			],
-			"settings": {
-				"foreground": "#6272A4"
-			}
-		},
-		{
-			"scope": [
 				"variable",
 				"constant.other.key.perl",
 				"support.variable.property",
@@ -996,6 +985,66 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+		},
+		{
+			"scope": "entity.name.type.class.python",
+			"settings": {
+			  "foreground": "#ff79c6"
+			}
+		  },
+		  {
+			"scope": "variable.language.python",
+			"settings": {
+			  "foreground": "#50fa7b"
+			}
+		  },
+		  {
+			"scope": "keyword.control.flow.python",
+			"settings": {
+			  "foreground": "#ff79c6"
+			}
+		  },
+		  {
+			"scope": "constant.language.python",
+			"settings": {
+			  "foreground": "#bd93f9"
+			}
+		  },
+		  {
+			"scope": "support.function.builtin.python",
+			"settings": {
+			  "foreground": "#f1fa8c"
+			}
+		  },
+		  {
+			"scope": "string.quoted.double.block.python, string.quoted.single.block.python, string.quoted.triple.block.python",
+			"settings": {
+			  "foreground": "#f1fa8c"
+			}
+		  },
+		  {
+			"scope": "string.quoted.double.python, string.quoted.single.python, string.quoted.triple.python",
+			"settings": {
+			  "foreground": "#f1fa8c"
+			}
+		  },
+		  {
+			"scope": "meta.function-call.python",
+			"settings": {
+			  "foreground": "#bd93f9"
+			}
+		  },
+		  {
+			"scope": "punctuation.definition.parameters.begin.python, punctuation.definition.parameters.end.python",
+			"settings": {
+			  "foreground": "#ff79c6"
+			}
+		  },
+		  {
+			"scope": "meta.function-call.arguments.python",
+			"settings": {
+			  "foreground": "#f1fa8c"
+			}
+		  }
 	]
 }
